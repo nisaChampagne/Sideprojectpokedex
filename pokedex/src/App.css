@@ -33,7 +33,9 @@
 } */
 
 .content-holder{
-  margin-left: 60px;
+  margin-left: 65px;
+  margin-top: 25px;
+  border-radius: 20px;
 }
 .Container{
   width: 510px;
