@@ -31,3 +31,21 @@
     transform: rotate(360deg);
   }
 }
+
+.Container{
+  width: 400px;
+  background:red;
+  box-shadow: 1rem 1rem 5rem rgba(30, 49, 78, 0.14);
+  margin: 3rem auto;
+  padding: 3rem 2rem;
+  min-height: 16.5rem;
+  border: 2px solid red;
+  border-radius: 14px;
+}
+
+button{
+  border-radius: 80%;
+  padding: .5rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
