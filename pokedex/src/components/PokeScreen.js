@@ -2,7 +2,7 @@ import React from "react"
 import { Card } from "semantic-ui-react"
 
 
-export default function PokeScreen(p) {
+export default function PokeScreen(props) {
   return (
     <Card className='ui centered class'>
       <Card.Content className='screen'>
